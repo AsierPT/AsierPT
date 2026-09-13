@@ -49,5 +49,5 @@ proyectos reales.
 
 ## 📫 Contacto
 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/jobs/
 - Email: asierptdev@gmail.com
